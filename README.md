@@ -10,3 +10,5 @@ Repositorio utilizado para el aprendizaje de git
 * [Git no es GitHub](./03_Git_Github.md)
 
 * [Comandos Git](./04_Comandos_Git.md)
+
+* [Más sobre Git](./05_Mas_git.md)

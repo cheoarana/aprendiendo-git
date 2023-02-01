@@ -22,3 +22,6 @@ Repositorio utilizado para el aprendizaje de git
 * [Eliminar ramas](./09_Eliminar_ramas.md)
 
 * [Git remoto](./10_Git_remoto.md)
+
+* [Flujo de trabajo](./11_Flujo_trabajo.md)
+

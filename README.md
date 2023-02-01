@@ -14,3 +14,5 @@ Repositorio utilizado para el aprendizaje de git
 * [Más sobre Git](./05_Mas_git.md)
 
 * [Más sobre ramas](./06_Rama_git.md)
+
+* [¿Qué es el HEAD?](./07_Head_git.md)

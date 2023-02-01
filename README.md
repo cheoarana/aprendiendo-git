@@ -25,3 +25,5 @@ Repositorio utilizado para el aprendizaje de git
 
 * [Flujo de trabajo](./11_Flujo_trabajo.md)
 
+* [Ramas de apoyo](./12_Ramas_apoyo.md)
+

@@ -18,3 +18,5 @@ Repositorio utilizado para el aprendizaje de git
 * [¿Qué es el HEAD?](./07_Head_git.md)
 
 * [¿merge?](./08_merge.md)
+
+* [Eliminar ramas](./09_Eliminar_ramas.md)

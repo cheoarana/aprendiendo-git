@@ -12,3 +12,5 @@ Repositorio utilizado para el aprendizaje de git
 * [Comandos Git](./04_Comandos_Git.md)
 
 * [Más sobre Git](./05_Mas_git.md)
+
+* [Más sobre ramas](./06_Rama_git.md)

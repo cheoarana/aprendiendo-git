@@ -30,5 +30,5 @@ Repositorio utilizado para el aprendizaje de git
     * [Feature](./13_Feature_git.md)
     * [Release](./14_Release_git.md)
     * [Hotfix](./15_Hotfix_git.md)
-* [Hotfix](./16_Buenas_practicas.md)
+* [Buenas Prácticas](./16_Buenas_practicas.md)
 
